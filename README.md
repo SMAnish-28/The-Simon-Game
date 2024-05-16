@@ -2,4 +2,4 @@
 ---
 ### Live Hosting:
 
-[CLick Here!](:url:)
+[Click Here!](https://smanish-28.github.io/The-Simon-Game/)
